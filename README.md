@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Android/Flutter/NLP/LLM**
 
-- 📫 How to reach me **mehtameetoff2802@gmail.cpm**
+- 📫 How to reach me **mehtameetoff2802@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/1geuvs9lsk](https://flowcv.com/resume/1geuvs9lsk)
 
