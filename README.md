@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Mehta</h1>
 <h3 align="center">A passionate Mobile and AI/ML developer</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Javascript and Node.js**
 
 - 💬 Ask me about **Android/Flutter/NLP/LLM**
 
