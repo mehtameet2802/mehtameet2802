@@ -7,7 +7,7 @@ Software Engineer with professional experience in backend development, currently
 ### Technical Focus
 
 - **Languages:** Python, C++, SQL
-- **Backend:** Django, FLask
+- **Backend:** Django, Flask
 - **Databases:** PostgreSQL, DynamoDB, MongoDB, Redis
 - **Infrastructure & Tools:** Docker, AWS, Linux, Git
 
