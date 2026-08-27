@@ -33,10 +33,10 @@ My repositories reflect different stages of my software engineering journey, inc
 
 I am actively practicing Data Structures & Algorithms and maintaining my solutions on GitHub.
 
-- [LeetCode](https://leetcode.com/mehtameetoff2802)
+- [LeetCode](https://leetcode.com/u/mehtameet2802/)
 - [DSA Solutions](https://github.com/mehtameet2802/leetcode-submissions)
 
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mehtameet2802/)
-- [LeetCode](https://leetcode.com/mehtameetoff2802)
+- [LeetCode](https://leetcode.com/u/mehtameet2802/)
